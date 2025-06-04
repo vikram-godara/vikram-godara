@@ -1,174 +1,153 @@
-# Hi 👋, I'm Vikram Chaudhary 
+# Hello, I'm Vikram Chaudhary 👋
 
-## 🚀 Full Stack Developer | AI Enthusiast | B.Tech CSE Student
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikram&label=Profile%20views&color=0e75b6&style=flat" alt="vikram" /> </p>
+**Computer Science Student | Full Stack Developer | From Rajasthan, India**
 
 ---
 
-### 👨‍💻 About Me
+## About Me
 
-- 🎓 **2nd Year B.Tech** in Computer Science & Engineering at **IIIT Ranchi**
-- 🎯 **Specialization:** Artificial Intelligence and Data Science  
-- 📍 **From:** Nagaur, Rajasthan, India
-- 💼 **Current Role:** Full Stack Web Developer
-- 🌱 **Currently Learning:** Advanced AI/ML, Deep Learning, Cloud Technologies
-- 🔭 **Working on:** Full-stack projects with AI integration
-- 💬 **Ask me about:** React, Node.js, Python, Machine Learning
-- ⚡ **Fun fact:** Journey from heritage city Nagaur to tech innovation at IIIT!
+- 🎓 2nd Year B.Tech Student in Computer Science & Engineering
+- 🏫 Indian Institute of Information Technology (IIIT), Ranchi  
+- 📍 Originally from Nagaur, Rajasthan, India
+- 💻 Full Stack Web Developer
+- 🌱 Learning Artificial Intelligence and Data Science
+- 🎯 Passionate about solving problems through code
 
 ---
 
-### 🛠️ Languages and Tools
+## Skills
 
-**Frontend Development:**
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-</p>
+**Programming Languages:**
+- Python  
+- JavaScript
+- C/C++
+- HTML/CSS
 
-**Backend Development:**
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-</p>
+**Web Development:**
+- Frontend: HTML, CSS, JavaScript, React
+- Backend: Node.js
+- Database: MySQL, MongoDB
 
-**AI/ML & Data Science:**
-<p align="left">
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/>
-</p>
+**Tools:**
+- Git & GitHub
+- VS Code
+- Photoshop (Basic)
 
-**Databases:**
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-</p>
-
-**Tools & Technologies:**
-<p align="left">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-</p>
+**Currently Learning:**
+- Machine Learning with Python
+- Data Structures & Algorithms
+- System Design
+- 
 
 ---
 
-### 📊 GitHub Stats
+## Projects
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vikram&show_icons=true&theme=dark&locale=en" alt="vikram" width="400"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=vikram&show_icons=true&theme=dark&locale=en&layout=compact" alt="vikram" width="400"/>
-</p>
+### 1. Personal Portfolio Website
+- **Description:** A clean, responsive website showcasing my work
+- **Tech:** HTML, CSS, JavaScript
+- **Status:** Completed
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vikram&theme=dark" alt="vikram" width="400"/>
-</p>
 
----
+### 2. Weather App
+- **Description:** Simple weather application using API
+- **Tech:** JavaScript, HTML, CSS, Weather API
+- **Status:** Completed
 
-### 🏆 Featured Projects
 
-#### 🤖 AI-Powered Web Applications
-- **Tech Stack:** React, Node.js, Python, TensorFlow, MongoDB
-- **Description:** Full-stack applications integrating machine learning models
-- **Status:** In Development
 
-#### 🌐 E-Commerce Platform
-- **Tech Stack:** MERN Stack, Redux, JWT Authentication
-- **Description:** Complete online shopping solution with admin panel
-- **Features:** Payment integration, inventory management, user authentication
-
-#### 📊 Data Analytics Dashboard
-- **Tech Stack:** Python, Streamlit, Plotly, Pandas
-- **Description:** Interactive data visualization and analysis tool
-- **Features:** Real-time data processing, custom visualizations
-
-#### 💬 Real-time Chat Application
-- **Tech Stack:** Node.js, Socket.io, React, MongoDB
-- **Description:** Instant messaging platform with real-time features
-- **Features:** Group chats, file sharing, online status
-
----
-
-### 🎓 Education
+## Education
 
 **Indian Institute of Information Technology (IIIT), Ranchi**
-- **Degree:** Bachelor of Technology
-- **Branch:** Computer Science and Engineering
-- **Specialization:** Artificial Intelligence and Data Science
-- **Year:** 2nd Year (2023-2027)
-- **Location:** Ranchi, Jharkhand, India
+- Bachelor of Technology - Computer Science & Engineering
+- Specialization: Artificial Intelligence and Data Science
+- Year: 2nd Year (2024-2028)
+- Relevant Coursework: Data Structures, Algorithms, Database Systems, Web Programming
+
+**Higher Secondary Education**
+- Science Stream with Mathematics
+- Rajasthan Board of Secondary Education
 
 ---
 
-### 🎯 Current Goals
+## GitHub Stats
 
-- 🚀 Building advanced AI/ML projects
-- 🌐 Contributing to open-source projects
-- 📚 Mastering cloud technologies (AWS, GCP)
-- 💼 Seeking internship opportunities in tech companies
-- 🤝 Collaborating with fellow developers
+![Vikram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikram-godara&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vikram-godara&layout=compact&theme=default)
 
 ---
 
-### 📫 Connect with Me
+## Experience & Achievements
 
-<p align="left">
-<a href="https://linkedin.com/in/vikram-godara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikram" height="30" width="40" /></a>
-<a href="https://twitter.com/YOUR_TWITTER" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vikram" height="30" width="40" /></a>
-<a href="https://www.instagram.com/vikram_.godara/?__pwa=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vikram" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/YOUR_LEETCODE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vikram" height="30" width="40" /></a>
-</p>
-
-**📧 Email:** vikramgodaraofficial@gmail.com
-**🌐 Portfolio:** [your-portfolio-site.com](https://your-portfolio-site.com)
+- 🏆 Solved 100+ coding problems on various platforms
+- 📚 Active participant in college coding competitions  
+- 🎯 Maintained good academic performance throughout
+- 🤝 Helped junior students with programming concepts
+- 📖 Regular contributor to college tech events
 
 ---
 
-### 💡 Quote
-> "The best way to predict the future is to create it." - Peter Drucker
+## What I'm Working On
+
+- 📊 Building a simple data visualization project using Python
+- 🌐 Creating more web applications to strengthen my portfolio
+- 📱 Learning mobile app development basics
+- 🧠 Practicing algorithms and data structures daily
+- 📝 Writing technical blogs about my learning journey
 
 ---
 
-<p align="center">
-<i>⭐ From <a href="https://github.com/vikram-godadra">Vikram</a> - Building tomorrow's technology today!</i>
-</p>
+## Goals for 2025
+
+- ✅ Complete 5 significant projects
+- ✅ Contribute to open source projects  
+- ✅ Learn one new programming language
+- ✅ Secure a good internship opportunity
+- ✅ Improve problem-solving skills
+- ✅ Build a strong professional network
 
 ---
 
-## 🔧 How to Use This README
+## Contact Me
 
-1. **Replace these placeholders:**
-   - Change `vikram` to your GitHub username in all URLs
-   - Update `YOUR_LINKEDIN`, `YOUR_TWITTER`, etc. with your actual profiles
-   - Replace email and portfolio links
-   - Update the profile view counter username
+📧 **Email:** (Vikramgodaraofficial59@gmail.com)
+💼 **LinkedIn:** (https://linkedin.com/in/vikram-godara)  
+🐦 **Twitter:** (https://twitter.com/)  
+🌐 **Portfolio:** (https://your-website.com)  
+💻 **LeetCode:** (https://leetcode.com/your_username)
 
-2. **Customize sections:**
-   - Add your actual project repositories
-   - Update skills based on your expertise
-   - Modify the about me section
-   - Add any achievements or certifications
+---
 
-3. **GitHub Stats Setup:**
-   - The stats will automatically work once you replace the username
-   - You can change themes by modifying `theme=dark` to other options like `radical`, `tokyonight`, etc.
+## Fun Facts About Me
 
-**Pro tip:** Keep this README updated with your latest projects and skills!
+- 🏛️ I come from Nagaur, a historic city in Rajasthan known for its beautiful forts
+- 🎵 I enjoy listening to music while coding
+- 📚 I love reading about new technologies and programming concepts  
+- 🌅 Early morning coder - I find I'm most productive in the morning hours
+- 🍕 Pizza is my favorite food during late-night coding sessions
+
+---
+
+## My Coding Philosophy
+
+> "Code is like poetry - it should be clean, meaningful, and easy to understand."
+
+I believe in writing simple, readable code that solves real problems. I prefer clarity over complexity and always try to learn something new every day.
+
+---
+
+## Recent Activity
+
+- 🔨 Working on improving my algorithm skills
+- 📖 Reading about software engineering best practices
+- 🌐 Building more web applications for practice
+- 🤝 Collaborating with classmates on college projects
+- 📝 Documenting my learning journey
+
+---
+
+**Thanks for visiting my profile! Feel free to reach out if you want to collaborate on any project or just have a chat about technology. I'm always open to learning and sharing knowledge.**
+
+---
+
