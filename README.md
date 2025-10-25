@@ -77,6 +77,8 @@
 ![Vikram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikram-godara&show_icons=true&theme=default)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vikram-godara&layout=compact&theme=default)
+## Badges
+![An image of @vikramgodara's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vikramgodara) https://holopin.io/@vikramgodara
 
 ---
 
