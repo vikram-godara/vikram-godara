@@ -4,6 +4,8 @@
 
 ---
 
+##Badges
+![An image of @vikramgodara's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vikramgodara)](https://holopin.io/@vikramgodara)
 ## About Me
 
 - 🎓 2nd Year B.Tech Student in Computer Science & Engineering
