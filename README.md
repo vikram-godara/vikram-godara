@@ -1,155 +1,27 @@
-# Hello, I'm Vikram Chaudhary 👋
+# 💫 About Me:
+Hello, I'm Vikram Chaudhary 👋<br>Computer Science Student | Full Stack Developer | From Rajasthan, India<br><br>About Me<br>🎓 2nd Year B.Tech Student in Computer Science & Engineering<br>🏫 Indian Institute of Information Technology (IIIT), Ranchi<br>📍 Originally from Nagaur, Rajasthan, India<br>💻 Full Stack Web Developer<br>🌱 Learning Artificial Intelligence and Data Science<br>🎯 Passionate about solving problems through code<br>Skills<br>Programming Languages:<br><br>Python<br>JavaScript<br>C/C++<br>HTML/CSS<br>Web Development:<br><br>Frontend: HTML, CSS, JavaScript, React<br>Backend: Node.js<br>Database: MySQL, MongoDB<br>Tools:<br><br>Git & GitHub<br>VS Code<br>Photoshop (Basic)<br>Currently Learning:<br><br>Machine Learning with Python<br>Data Structures & Algorithms<br>System Design<br>Projects<br>1. Personal Portfolio Website<br>Description: A clean, responsive website showcasing my work<br>Tech: HTML, CSS, JavaScript<br>Status: Completed<br>2. Weather App<br>Description: Simple weather application using API<br>Tech: JavaScript, HTML, CSS, Weather API<br>Status: Completed<br>Education<br>Indian Institute of Information Technology (IIIT), Ranchi<br><br>Bachelor of Technology - Computer Science & Engineering<br>Specialization: Artificial Intelligence and Data Science<br>Year: 2nd Year (2024-2028)<br>Relevant Coursework: Data Structures, Algorithms, Database Systems, Web Programming<br>Higher Secondary Education<br><br>Science Stream with Mathematics<br>Rajasthan Board of Secondary Education<br>GitHub Stats<br>Vikram's GitHub Stats<br><br>Top Languages<br><br>Badges<br>An image of @vikramgodara's Holopin badges, which is a link to view their full Holopin profile https://holopin.io/@vikramgodara<br><br>Experience & Achievements<br>🏆 Solved 100+ coding problems on various platforms<br>📚 Active participant in college coding competitions<br>🎯 Maintained good academic performance throughout<br>🤝 Helped junior students with programming concepts<br>📖 Regular contributor to college tech events<br>What I'm Working On<br>📊 Building a simple data visualization project using Python<br>🌐 Creating more web applications to strengthen my portfolio<br>📱 Learning mobile app development basics<br>🧠 Practicing algorithms and data structures daily<br>📝 Writing technical blogs about my learning journey<br>Goals for 2025<br>✅ Complete 5 significant projects<br>✅ Contribute to open source projects<br>✅ Learn one new programming language<br>✅ Secure a good internship opportunity<br>✅ Improve problem-solving skills<br>✅ Build a strong professional network<br>Contact Me<br>📧 Email: (Vikramgodaraofficial59@gmail.com) 💼 LinkedIn: (https://linkedin.com/in/vikram-godara)<br>🐦 Twitter: (https://twitter.com/)<br>🌐 Portfolio: (https://your-website.com)<br>💻 LeetCode: (https://leetcode.com/your_username)<br><br>Fun Facts About Me<br>🏛️ I come from Nagaur, a historic city in Rajasthan known for its beautiful forts<br>🎵 I enjoy listening to music while coding<br>📚 I love reading about new technologies and programming concepts<br>🌅 Early morning coder - I find I'm most productive in the morning hours<br>🍕 Pizza is my favorite food during late-night coding sessions<br>My Coding Philosophy<br>"Code is like poetry - it should be clean, meaningful, and easy to understand."<br><br>I believe in writing simple, readable code that solves real problems. I prefer clarity over complexity and always try to learn something new every day.<br><br>Recent Activity<br>🔨 Working on improving my algorithm skills<br>📖 Reading about software engineering best practices<br>🌐 Building more web applications for practice<br>🤝 Collaborating with classmates on college projects<br>📝 Documenting my learning journey<br>Thanks for visiting my profile! Feel free to reach out if you want to collaborate on any project or just have a chat about technology. I'm always open to learning and sharing knowledge.<br><br>
 
-**Computer Science Student | Full Stack Developer | From Rajasthan, India**
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/choudhary_.vikram) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vikram-godara) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/godaraa_vikram) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hirethevikram@gmail.com) 
 
-## About Me
+# 💻 Tech Stack:
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=flat&logo=web3.js&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=vikram-godara&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=vikram-godara&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vikram-godara&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 🎓 2nd Year B.Tech Student in Computer Science & Engineering
-- 🏫 Indian Institute of Information Technology (IIIT), Ranchi  
-- 📍 Originally from Nagaur, Rajasthan, India
-- 💻 Full Stack Web Developer
-- 🌱 Learning Artificial Intelligence and Data Science
-- 🎯 Passionate about solving problems through code
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=vikram-godara&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## Skills
-
-**Programming Languages:**
-- Python  
-- JavaScript
-- C/C++
-- HTML/CSS
-
-**Web Development:**
-- Frontend: HTML, CSS, JavaScript, React
-- Backend: Node.js
-- Database: MySQL, MongoDB
-
-**Tools:**
-- Git & GitHub
-- VS Code
-- Photoshop (Basic)
-
-**Currently Learning:**
-- Machine Learning with Python
-- Data Structures & Algorithms
-- System Design
-- 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=vikram-godara&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=vikram-godara&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Projects
-
-### 1. Personal Portfolio Website
-- **Description:** A clean, responsive website showcasing my work
-- **Tech:** HTML, CSS, JavaScript
-- **Status:** Completed
-
-
-### 2. Weather App
-- **Description:** Simple weather application using API
-- **Tech:** JavaScript, HTML, CSS, Weather API
-- **Status:** Completed
-
-
-
-## Education
-
-**Indian Institute of Information Technology (IIIT), Ranchi**
-- Bachelor of Technology - Computer Science & Engineering
-- Specialization: Artificial Intelligence and Data Science
-- Year: 2nd Year (2024-2028)
-- Relevant Coursework: Data Structures, Algorithms, Database Systems, Web Programming
-
-**Higher Secondary Education**
-- Science Stream with Mathematics
-- Rajasthan Board of Secondary Education
-
----
-
-## GitHub Stats
-
-![Vikram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikram-godara&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vikram-godara&layout=compact&theme=default)
-## Badges
-![An image of @vikramgodara's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vikramgodara) https://holopin.io/@vikramgodara
-
----
-
-## Experience & Achievements
-
-- 🏆 Solved 100+ coding problems on various platforms
-- 📚 Active participant in college coding competitions  
-- 🎯 Maintained good academic performance throughout
-- 🤝 Helped junior students with programming concepts
-- 📖 Regular contributor to college tech events
-
----
-
-## What I'm Working On
-
-- 📊 Building a simple data visualization project using Python
-- 🌐 Creating more web applications to strengthen my portfolio
-- 📱 Learning mobile app development basics
-- 🧠 Practicing algorithms and data structures daily
-- 📝 Writing technical blogs about my learning journey
-
----
-
-## Goals for 2025
-
-- ✅ Complete 5 significant projects
-- ✅ Contribute to open source projects  
-- ✅ Learn one new programming language
-- ✅ Secure a good internship opportunity
-- ✅ Improve problem-solving skills
-- ✅ Build a strong professional network
-
----
-
-## Contact Me
-
-📧 **Email:** (Vikramgodaraofficial59@gmail.com)
-💼 **LinkedIn:** (https://linkedin.com/in/vikram-godara)  
-🐦 **Twitter:** (https://twitter.com/)  
-🌐 **Portfolio:** (https://your-website.com)  
-💻 **LeetCode:** (https://leetcode.com/your_username)
-
----
-
-## Fun Facts About Me
-
-- 🏛️ I come from Nagaur, a historic city in Rajasthan known for its beautiful forts
-- 🎵 I enjoy listening to music while coding
-- 📚 I love reading about new technologies and programming concepts  
-- 🌅 Early morning coder - I find I'm most productive in the morning hours
-- 🍕 Pizza is my favorite food during late-night coding sessions
-
----
-
-## My Coding Philosophy
-
-> "Code is like poetry - it should be clean, meaningful, and easy to understand."
-
-I believe in writing simple, readable code that solves real problems. I prefer clarity over complexity and always try to learn something new every day.
-
----
-
-## Recent Activity
-
-- 🔨 Working on improving my algorithm skills
-- 📖 Reading about software engineering best practices
-- 🌐 Building more web applications for practice
-- 🤝 Collaborating with classmates on college projects
-- 📝 Documenting my learning journey
-
----
-
-**Thanks for visiting my profile! Feel free to reach out if you want to collaborate on any project or just have a chat about technology. I'm always open to learning and sharing knowledge.**
-
----
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
